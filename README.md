@@ -33,13 +33,14 @@
 
 ## 💬 개발 언어 및 활용 기술
 
-![image-20200916155252034](C:\Users\82105\AppData\Roaming\Typora\typora-user-images\image-20200916155252034.png)
+![](https://user-images.githubusercontent.com/60774058/93716961-9ff88600-fbad-11ea-85a7-51b94ca401f4.png)
 
 
 
 ## :desktop_computer: 시스템 아키텍처
 
 ![4조 꽃구름 _ IN _ Teaser 아키텍쳐](https://user-images.githubusercontent.com/52478972/75738366-6f521b80-5d45-11ea-9705-7a6dad901abc.jpg)
+
 
 
 ## 개발 환경
@@ -202,12 +203,6 @@
 
 
 ![IN_Teaser](https://user-images.githubusercontent.com/52478972/75734388-2eeda000-5d3b-11ea-8bd5-e622609c4af9.png)
-
-
-
-## System architecture
-
-![4조 꽃구름 _ IN _ Teaser 아키텍쳐](https://user-images.githubusercontent.com/52478972/75738366-6f521b80-5d45-11ea-9705-7a6dad901abc.jpg)
 
 
 
